@@ -1,0 +1,9 @@
+.formContainer{
+  /* background-color: #b0e1dc; */
+  border: 2px solid #04373c;
+  padding: 20px;
+  border-radius: 10px;
+}
+label {
+  color: #174442;
+}
